@@ -1,8 +1,7 @@
-# Azure Document Intelligence Form Check Mark Test
-
+# Azure Document Intelligence Form to CSV
 ## Overview
 
-This repository contains test scripts and sample data to evaluate if **Azure Document Intelligence (DI)** can accurately read and interpret forms containing check marks.
+This repository contains test scripts and sample data to evaluate if **Azure Document Intelligence (DI)** can accurately read and interpret forms containing check marks and put them into csv automatically.
 
 The goal is to verify the capability of Azure DI's form recognizer to detect and extract checkbox values from scanned or digital forms.
 
